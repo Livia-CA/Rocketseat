@@ -398,7 +398,7 @@ body.menu-expanded button {
   display: flex;
   gap: 1.6rem;
   align-items: center;
-  color: var(--primary-dark);
+  color: white;
 }
 
 #depositions img {
