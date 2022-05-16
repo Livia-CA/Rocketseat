@@ -634,7 +634,7 @@ footer .social-links {
   /*=== HOME =================================*/
   #home {
     padding-top: var(--nav-height);
-    height: 100vh;
+/*     height: 100vh; */
     padding-block: 16rem;
   }
 
